@@ -104,8 +104,8 @@
 		 <div class="col-lg-4 col-md-4 col-sm-10 d-block m-auto ">
      <!-- Card -->		  
 		<div class="card "> 
-		  
-			<img src="images/pic1.jpg" class="card-img img-fluid "> 
+		  <a href="#portfolio">
+              <img src="images/pic1.jpg" class="card-img img-fluid "> </a>
 			  <div class="card-body">
 			    <h2 class="card-title"> Web Programmer </h2>
 				<p class="card=text"> Using 5th &amp; 4th Generation Programming Languages </p>
@@ -115,7 +115,7 @@
 			
 		<div class="col-lg-4 col-md-4 col-sm-10 d-block m-auto ">
 			<div class="card ">
-			<img src="images/pic2.jpg" class="card-img img-fluid "> 
+                <a href="#portfolio"><img src="images/pic2.jpg" class="card-img img-fluid "> </a>
 			  <div class="card-body">
 			    <h2 class="card-title"> Responsive </h2>
 				<p class="card=text"> Test website in different devices to make sure it works.</p>
@@ -123,17 +123,20 @@
 			</div>
 		</div>
          
-		<div class="col-lg-4 col-md-4 col-sm-10 d-block m-auto ">
-			<div class="card ">
-			<img src="images/port.png" class="card-img img-fluid"> 
+		
+            <div class="col-lg-4 col-md-4 col-sm-10 d-block m-auto ">
+		
+                <div class="card ">
+                    <a href="https://github.com/Muhammad-Taimur/School-Management.git">	<img src="images/port.png" class="card-img img-fluid"> </a>
 			  <div class="card-body">
 			    <h2 class="card-title">Management Systems </h2>
-				<p class="card=text">School Management system Web Application for Registrationa, Enrol &amp; Notified Purpose</p>
+				<p class="card=text">School Management system Web Application for Registrations, Enrol &amp; Notified Purpose</p>
 			  </div>
 			</div>
-			
-			
+                
+                
 		</div>
+            
 	</div>
 </div>
 </div>

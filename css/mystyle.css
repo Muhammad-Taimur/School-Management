@@ -1,0 +1,419 @@
+.bgimg{
+	
+	    background-image: url('../images/pic.jpg');
+		
+		background-size: 100% 100%;
+		background-attachment:fixed;
+		width:100%;
+		height: 660px;
+    background-repeat: no-repeat
+		
+		
+}
+.headerset{
+	padding-top: 250px;
+	box-sizing: border-box;
+}
+.headerset h2{
+	
+	font-size:50px;
+	font-weight:bold;
+    color: white;
+}
+
+.logoimg{
+    
+    width: 12%;
+    height: 12%;
+}
+.services{
+	
+	padding:100px 0px 60px;
+	height:550px;
+}
+.services h1{
+	font-size:50px;
+	font-weight:bold;
+}
+.rowsetting{
+	
+	margin : 80px 0px !important;
+	
+}
+.imgsetting{
+	border-radius: 50%;
+	height:100px;
+	width : 100px;
+	
+}
+.fa-shopping-cart{
+
+      margin-top:25px;
+
+}	
+.fa-desktop{
+	margin-top:28px;
+	
+}
+.fa-mobile{
+	margin-top:24px;
+}
+.rowsetting p{
+	padding:10px;   
+	color: #6c757d!important;
+
+}
+
+
+.crd{
+	margin-top:60px;
+	
+}
+.portfolio{
+	height: 650px;
+	width:100%;
+	padding:  100px 0px 50px;
+	
+}
+.portfolio h1{
+	font-size: 50px;
+	font-weight:bold;
+	
+}
+.ourteam{
+	padding:100px 0px 60px;
+	height:700px;
+	margin-top:60px;
+}
+.ourteam h1{
+	font-size: 50px;
+	font-weight:bold;
+	margin-top:30px;
+}
+.rm{
+	margin-top:50px;
+}
+.footer{
+	height:80px;
+	
+}
+footer h6{
+	line-height:50px;
+}
+.ss{
+	background-color:black;
+	color:white;
+	
+}
+.R1{
+	
+	margin-top:50px;
+}
+.setting{
+	
+	background-color:rgb(39,39,39);
+	height:600px;
+}
+.abb h4{
+	
+	color:white;
+	font-size:30px;
+	
+	
+}
+.setting h1{
+	  color:white;
+	  font-size:60px;
+	  
+}
+
+.setting p{
+	color:rgb(122,147,133);
+	margin-top:50px;
+}
+
+.setting a{
+	
+	color:white;
+	font-size:30px;
+}
+.foorm{
+	
+	background-color:rgb(51,122,183);
+	padding:  100px 0px 50px;
+	
+	
+}
+.foorm h1{
+	padding:  100px 0px 50px;
+	margin-top:
+
+}
+.inp{
+	width:400px;
+	border-radius:5px;
+	height:50px;
+	
+}
+.inpp{
+	width:400px;
+	border-radius:5px;
+	height:100px;
+	
+	
+}
+.form-control input{
+	width:100px;
+}
+
+.frm{
+	width:400px;
+   border: 2px solid white;
+   border-radius:15px;   
+
+	height:550px;
+}
+
+@media(max-width: 992px){
+		
+		.services{
+			height:600px;
+			
+		}
+		
+		.card-body h2{
+			font-size:24px
+		}
+		
+		.setting{
+			
+			height:900px;
+			
+			
+		}
+		
+		.portfolio{
+			
+			height:700px;
+		}
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+	
+	
+	.setting{
+			
+			height:1500px;
+		}
+		
+		.setting a{
+			font-size:22px;
+			
+		}
+		
+		
+  	 .bgimg{
+	   
+	   height:700px;
+	   
+   }
+   
+   .bgimg nav h3{
+	   
+	   font-size:30px;
+	   
+   }
+	.headerset h2{
+	
+	font-size: 40px;
+	font-weight:bold;
+	color:white;
+	
+	}
+	.services{
+	
+	width:100%;
+	height: 900px;
+	margin:100px;
+}
+.card{
+	margin-top:20px;
+	
+}
+.card-body h2{
+	font-size:26px;
+}
+.card-body p{
+	font-size:15px;
+}
+.portfolio{
+	
+	height:1700px;
+}
+.portfolio h1{
+	
+	font-size:40px;
+}
+
+.ourteam{
+	height:700px;
+}
+.ourteam h1
+{
+	font-size:25px;
+}
+.footer{
+  height:50px;	
+}
+.footer h6{
+	font-size:15px;
+}	
+}
+
+@media(min-width : 480px) and (max-width : 574px){
+	
+	 .bgimg{
+	   
+	   height:550px;
+	   
+   }
+   
+   .bgimg nav h3{
+	   
+	   font-size:20px;
+	   
+   }
+	.headerset h2{
+	
+	font-size: 30px;
+	font-weight:bold;
+	color:black;
+	
+	}
+	.services{
+	
+	width:100%;
+	height: 1000px;
+	margin:100px;
+}
+.card{
+	margin-top:20px;
+	
+}
+.card-body h2{
+	font-size:25px;
+}
+.card-body p{
+	font-size:15px;
+}
+.portfolio{
+	
+	height:1700px;
+}
+.portfolio h1{
+	
+	font-size:30px;
+}
+
+.ourteam{
+	height:700px;
+}
+.ourteam h1
+{
+	font-size:25px;
+}
+.footer{
+  height:50x;	
+}
+.footer h6{
+	font-size:20px;
+}
+.setting{
+	
+	background-color:rgb(39,39,39);
+	height:1200px;
+}
+.setting h1{
+	font-size:35px;
+}
+.setting a{
+	font-size:15px;
+}
+}
+
+
+@media(max-width : 479px){
+   
+   .setting{
+	
+	background-color:rgb(39,39,39);
+	height:2000px;
+}  
+.setting a{
+	
+	font-size:15px;
+}
+.foorm h4{
+	font-size:15px;
+}
+   .bgimg{
+	   
+	   height:550px;
+	   
+   }
+   
+   .bgimg nav h3{
+	   
+	   font-size:15px;
+	   
+   }
+	.headerset h2{
+	
+	font-size: 30px;
+	font-weight:bold;
+	color:black;
+	
+	}
+	.services{
+	
+	width:100%;
+	height: 1100px;
+	margin:100px;
+}
+.card{
+	margin-top:20px;
+	
+}
+.card-body h2{
+	font-size:25px;
+}
+.card-body p{
+	font-size:15px;
+}
+.portfolio{
+	
+	height:1300px;
+}
+.portfolio h1{
+	
+	font-size:28px;
+}
+
+.ourteam{
+	height:700pxpx;
+}
+.ourteam h1
+{
+	font-size:25px;
+}
+.footer{
+  height:100px;	
+}
+.footer h6{
+	font-size:15px;
+}
+
+	
+}
+
+
